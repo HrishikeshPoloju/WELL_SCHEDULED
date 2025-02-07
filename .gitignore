@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment Variables
+.env
+
+# Build Files
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Logs & Cache
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.DS_Store
